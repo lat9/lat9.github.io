@@ -1,8 +1,8 @@
-# lat9's Documentation #
+# lat9's Documentation
 
 I'll be converting the majority of my plugins' documentation to use GitHub Markdown in the future.  It's much easier to write and will consolidate the documentation (and images), allowing those plugins' distribution zip-files to be a more manageable size!
 
-## One-Page Checkout ##
+## One-Page Checkout
 
 This plugin, as its name implies, provides a one-page checkout for a Zen Cart store.
 
